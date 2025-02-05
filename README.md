@@ -58,5 +58,5 @@ Dataset ini berisi transaksi di **supermarket** dengan rincian:
 - **Mengoptimalkan waktu promosi** dengan memanfaatkan jam sibuk pelanggan.  
 
 ---  
-Dokumen ini merupakan bagian dari proyek **Final Capstone Data Analytics di MSIB Revou Tech Academy**.
+Dokumen ini merupakan bagian dari proyek berkelompok **Final Capstone Data Analytics di MSIB Revou Tech Academy**.
 
