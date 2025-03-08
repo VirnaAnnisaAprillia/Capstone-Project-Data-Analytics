@@ -44,6 +44,7 @@ Dataset ini berisi transaksi di **supermarket** dengan rincian:
 ## 📊 Dashboard & Query  
 ### 🔗 Link Penting  
 - 📊 **Dashboard Looker Studio:** https://lookerstudio.google.com/reporting/d36f4bc8-0b29-4a6f-a8a9-df5d4768f8ed/page/6vt1C/edit
+- 📄 **PDF Power Point:** https://drive.google.com/file/d/11rlx2h2JYtuJ3A7qMopNM9Cq9_sj5CFL/view?usp=sharing
 
 ## 🛠️ Tools yang Digunakan  
 - **Excel**   
